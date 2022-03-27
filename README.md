@@ -5,9 +5,18 @@
 
 [https://www.kaggle.com](https://www.kaggle.com/)
 
+<br>
+
 ## Description
 
 본 Kaggle Competition Study는 이미 종료된 대회를 다시 분석하고 직접 필사하는 Study입니다. 주로 Top Ranker들의 공개된 커널을 필사했습니다. 내용 이해 및 학습을 중심으로 진행하되, 모르는 코드 or 방법론이 나오면 최대한 이해하려고 노력했으며, 스터디원들과 매주 1회씩 Review를 진행하였습니다. Competition 및 커널 선정은 캐글코리아 [이유한님의 캐글필사커널 커리큘럼](https://aifrenz.github.io/present_file/커널커리큘럼.pdf)을 참고했습니다.
+
+* 유용한 자료
+    * [Kaggle-knowhow](https://github.com/zzsza/Kaggle-knowhow/blob/master/README.md)
+    * [Hello-Kaggle-Guide-KOR](https://github.com/stevekwon211/Hello-Kaggle-Guide-KOR)
+
+
+<br>
 
 ## Project
 
