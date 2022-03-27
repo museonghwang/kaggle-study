@@ -5,7 +5,6 @@
 
 [https://www.kaggle.com](https://www.kaggle.com/)
 
-<br>
 
 ## Description
 
@@ -15,8 +14,6 @@
     * [Kaggle-knowhow](https://github.com/zzsza/Kaggle-knowhow/blob/master/README.md)
     * [Hello-Kaggle-Guide-KOR](https://github.com/stevekwon211/Hello-Kaggle-Guide-KOR)
 
-
-<br>
 
 ## Project
 
