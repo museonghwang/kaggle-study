@@ -17,6 +17,9 @@ https://www.kaggle.com/c/statoil-iceberg-classifier-challenge
 
 해당 커널에서는 가장 기본적인 합성곱 신경망(Convolutional Neural Network, CNN)을 적용하여 결과를 예측했습니다. 특히 간단한 전처리 만으로 학습을 진행했고, 학습전 plotly를 사용하여 빙하와 배의 이미지 특성차이를 3D로 시각화 하였습니다.
 
+![iceberg](/Statoil%20C-CORE%20Iceberg%20Classifier%20Challenge/image/iceberg.png)
+![ship](/Statoil%20C-CORE%20Iceberg%20Classifier%20Challenge/image/ship.png)
+
 CNN의 기초에 대해 배울 수 있는 좋은 커널이었으며, 프레임워크는 Keras를 사용했습니다.
 
 
