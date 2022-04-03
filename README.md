@@ -64,6 +64,7 @@
 
 | Contents | Study Kernel | Study Date |
 |-----|:---:|:---:|
-| 1. Keras Model for Beginners (0.210 on LB)+EDA+R&D | ([link]()) | 2022.03.27 |
+| 1. Keras Model for Beginners (0.210 on LB)+EDA+R&D | ([link](https://github.com/museonghwang/Kaggle_Study/blob/main/Statoil%20C-CORE%20Iceberg%20Classifier%20Challenge/Keras_Model_for_Beginners_(0_210_on_LB)%2BEDA%2BR%26D.ipynb)) | 2022.03.27 |
+| 2. Convolutional Neural Net Tutorial (tensorflow) | ([link](https://github.com/museonghwang/Kaggle_Study/blob/main/Statoil%20C-CORE%20Iceberg%20Classifier%20Challenge/Convolutional_Neural_Net_Tutorial_(tensorflow).ipynb)) | 2022.04.03 |
 
 
