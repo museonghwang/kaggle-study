@@ -14,7 +14,7 @@
     - [EDA & Baseline](https://nbviewer.org/github/museonghwang/kaggle-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EC%A0%84%EB%9E%B5/Chapter%2006%20Bike%20Sharing%20Demand/bike-sharing-demand-eda-baseline.ipynb#)
     - [Modeling](https://nbviewer.org/github/museonghwang/kaggle-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EC%A0%84%EB%9E%B5/Chapter%2006%20Bike%20Sharing%20Demand/bike-sharing-demand-modeling.ipynb)
 - Chapter 07 범주형 데이터 이진분류
-    - [EDA & Baseline]()
-    - [Modeling]()
+    - [EDA & Baseline](https://nbviewer.org/github/museonghwang/kaggle-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EC%A0%84%EB%9E%B5/Chapter%2007%20Categorical%20Feature%20Encoding%20Challenge/Categorical%20Feature%20Encoding%20Challenge%20EDA%20%26%20Baseline.ipynb)
+    - [Modeling](https://nbviewer.org/github/museonghwang/kaggle-study/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%20%EC%A0%84%EB%9E%B5/Chapter%2007%20Categorical%20Feature%20Encoding%20Challenge/categorical-feature-encoding-challenge-modeling.ipynb)
 - Chapter 08 안전 운전자 예측
 - Chapter 09 향후 판매량 예측
